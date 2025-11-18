@@ -1,17 +1,9 @@
-# 👩🏻‍💻 Álvaro Miguel
+# 👩🏻‍💻 Leonardo da Silva Martins
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Álvaro Miguel, tenho 18 anos e sou natural do Goiás. Concluí o ensino médio em escola publica e durante ele realizeo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP. Atualmente, estou cursando Sistemas de Informação no IFSP-Votuporanga. Sou apaixonado por tecnologia, compartilho meus conhecimentos e desafios no perfil do LinkedIn [Álvaro Miguel](https://www.linkedin.com/in/álvaro-miguel-1b4606331/).
+Me chamo  Leonardo da Silva Martins, tenho 15 anos e sou natural do Fernandópolis. Atualmente realizo o curso técnico em Informática para Internet integrado ao ensino médio na ETEC. Armando José Farinazzo em Fernandópolis-SP. 
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/álvaro-miguel-1b4606331/">
-        <img 
-            alt="linkedin" 
-            title="Conecte-se" 
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
     <a href="https://www.instagram.com/alvarowrl/">
         <img 
             alt="insta" 
@@ -95,22 +87,3 @@ Me chamo Álvaro Miguel, tenho 18 anos e sou natural do Goiás. Concluí o ensin
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alvarowrl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarowrl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
